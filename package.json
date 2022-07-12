@@ -1,0 +1,12 @@
+{
+  "name": "ui-canta",
+  "displayName": "Canta",
+  "theme": "ui",
+  "version": "1.0.0",
+  "description": "Canta inspired UI theme",
+  "license": "AGPL",
+  "engines": {
+    "mailspring": "*"
+  },
+  "private": true
+}
