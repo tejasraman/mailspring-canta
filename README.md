@@ -5,4 +5,4 @@
 Screenshots:
 
 ![Linux](screenshots/Linux.png)
-![mac](screenshots/Msc.png)
+![mac](screenshots/Mac.png)
