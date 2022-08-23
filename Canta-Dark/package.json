@@ -1,8 +1,8 @@
 {
-  "name": "ui-canta",
-  "displayName": "Canta",
+  "name": "ui-canta-dark",
+  "displayName": "Canta Dark",
   "theme": "ui",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Canta inspired UI theme",
   "license": "AGPL",
   "engines": {
