@@ -1,6 +1,6 @@
 {
-  "name": "ui-canta-dark",
-  "displayName": "Canta Dark",
+  "name": "ui-canta-light",
+  "displayName": "Canta Light",
   "theme": "ui",
   "version": "1.2.0",
   "description": "Canta inspired UI theme",
