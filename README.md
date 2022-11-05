@@ -2,8 +2,4 @@
 
 ## This theme is inspired by the [Canta GTK theme]((https://github.com/vinceliuice/Canta-theme)
 
-Screenshots:
-
-![Linux](screenshots/Linux.png)
-![mac](screenshots/Mac.png)
-
+There are light, dark, and Indigo-dark (GTK) variants.
