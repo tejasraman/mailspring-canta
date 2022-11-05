@@ -10,4 +10,3 @@ Screenshots:
 ## To Do:
 - Light version
 - email-frame for light mode emails
-
