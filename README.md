@@ -6,3 +6,7 @@ Screenshots:
 
 ![Linux](screenshots/Linux.png)
 ![mac](screenshots/Mac.png)
+
+## To Do:
+- Light version
+- email-frame for light mode emails
